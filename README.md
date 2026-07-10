@@ -29,10 +29,10 @@ Unlike traditional file movers, this application focuses on speed, simplicity, a
 
 Add screenshots here.
 
-```
+
 ![Main Window](main.png)
 ![Main Window](main2.png)
-```
+
 
 ---
 
