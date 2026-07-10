@@ -30,8 +30,8 @@ Unlike traditional file movers, this application focuses on speed, simplicity, a
 Add screenshots here.
 
 ```
-screenshots/main.png
-screenshots/main2.png
+main.png
+main2.png
 ```
 
 ---
