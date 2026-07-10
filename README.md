@@ -30,8 +30,8 @@ Unlike traditional file movers, this application focuses on speed, simplicity, a
 Add screenshots here.
 
 ```
-main.png
-main2.png
+![Main Window](main.png)
+![Main Window](main2.png)
 ```
 
 ---
